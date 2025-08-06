@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello from ai-main
-=======
-hello from login
->>>>>>> login
+hello from ai-main and login 
