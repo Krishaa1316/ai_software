@@ -1,1 +1,1 @@
-conlfict in example1
+ conflict in example2
